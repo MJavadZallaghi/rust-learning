@@ -1,0 +1,17 @@
+ __________________________
+< Hello fellow Rustaceans! >
+ --------------------------
+        \
+         \
+            _~^~^~_
+        \) /  o o  \ (/
+          '_   -   _'
+          / '-----' \
+
+
+
+local tutorials command:
+
+$ rustup doc
+
+
