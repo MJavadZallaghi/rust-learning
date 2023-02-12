@@ -1,0 +1,11 @@
+D:\Javad\Rust Learning\rust-learning\hello-rust\target\debug\deps\textwrap-559f3f898a5474ad.rmeta: C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+D:\Javad\Rust Learning\rust-learning\hello-rust\target\debug\deps\libtextwrap-559f3f898a5474ad.rlib: C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+D:\Javad\Rust Learning\rust-learning\hello-rust\target\debug\deps\textwrap-559f3f898a5474ad.d: C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs:
+C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs:
+C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs:
+C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs:
+C:\Users\moham\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs:
