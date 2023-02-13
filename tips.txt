@@ -14,7 +14,7 @@ local tutorials command:
 
 $ rustup doc
 
-Checkpoint place: Tutorial by code examples >> 1.1 + finished.
+Checkpoint place: Tutorial by code examples >> 2.1
 
 1.2 is skipped - not necesary right now.
 
